@@ -1,0 +1,12 @@
+# macOS & dischi esterni
+.DS_Store
+._*
+Icon?
+.Spotlight-V100
+.Trashes
+
+# Python / notebook
+__pycache__/
+.ipynb_checkpoints/
+venv/
+*.log
